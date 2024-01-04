@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // Settings
+    <color name="settings_text_title">#ffffff</color>
+
+    //TODO App//
+    <color name="todo_background_card">#02050E</color>
+    <color name="todo_background_disabled">#424141</color>
+    <color name="todo_background_todo_app">#07153C</color>
+    <color name="todo_subtitle_text">#DDDDDD</color>
+    <color name="todo_accent">#E91E63</color>
+
+    <color name="todo_business_category">#603900</color>
+    <color name="todo_personal_category">#02707E</color>
+    <color name="todo_other_category">#19601B</color>
+
+</resources>

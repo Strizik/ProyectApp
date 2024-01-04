@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Elias</string>
+
+    //IMC App/
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Recalcular</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo optimo.</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás  en lo optimo.</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo optimo.</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás muy por encima de lo optimo.</string>
+
+    // TODO App//
+
+    <string name="todo_title">Bienvenido c:</string>
+    <string name="todo_categories">Categorias:</string>
+    <string name="todo_tasks">Tareas:</string>
+    <string name="todo_dialog_add_task">Añadir tarea:</string>
+
+    <string name="todo_dialog_category_business">Negocio</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_add_button">Crear tarea</string>
+
+    // SettingsApp //
+
+    <string name="setting_modoOscuro">Modo oscuro</string>
+    <string name="setting_descripcion">Mejora al modo oscuro para un cambio visual</string>
+
+    <string name="setting_Bluetooth">Activar Bluetooth</string>
+    <string name="setting_BluetoothDescripcion">Mejora al modo oscuro para un cambio visual</string>
+
+    <string name="setting_volume">Volumen</string>
+
+    <string name="setting_vibration">Vibrar en las llamadas</string>
+
+
+</resources>
