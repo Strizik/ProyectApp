@@ -1,11 +1,13 @@
 Aplicaciones ANDROID en KOTLIN
+  
+-Valores y variables en Kotlin
 
-Valores y variables en Kotlin
-Trabajando con variables en Kotlin
-Funciones en Kotlin
-Funciones con parámetros de entrada y salida
-Instrucciones if-else en Kotlin
-Expresión when en Kotlin
+-Trabajando con variables en Kotlin
+
+-Funciones en Kotlin
+-Funciones con parámetros de entrada y salida
+-Instrucciones if-else en Kotlin
+-Expresión when en Kotlin
 Nulabilidad
 Ejercicios If-else/When
 Arrays en Kotlin
