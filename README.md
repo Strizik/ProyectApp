@@ -20,13 +20,13 @@ Aplicaciones ANDROID en KOTLIN
 
 -Listas en Kotlin
 
-.Desarrollando nuestra APP
+❤️Desarrollando nuestra APP
 
 -Navegación de pantallas
 
 -Crear un menú para navegar entre apps
 
-.Diseñar y programar app completa IMC
+❤️Diseñar y programar app completa IMC
 
 -Cambios entre pantallas
 
@@ -42,7 +42,7 @@ Aplicaciones ANDROID en KOTLIN
 
 -Listeners y clicks
 
-.Diseñar y programar app completa TODO
+❤️Diseñar y programar app completa TODO
 
 -Recyclerview
 
@@ -52,7 +52,7 @@ Aplicaciones ANDROID en KOTLIN
 
 -Funciones lambdas
 
-.Diseñar y programar una buscador de Superhéroes
+❤️Diseñar y programar una buscador de Superhéroes
 
 -SearchView
 
@@ -62,7 +62,7 @@ Aplicaciones ANDROID en KOTLIN
 
 -Recyclerview
 
-.Diseñar y programar una pantalla de ajustes con persistencia de datos
+❤️Diseñar y programar una pantalla de ajustes con persistencia de datos
 
 -Persistencia de datos con DataStore
 
@@ -73,7 +73,7 @@ Aplicaciones ANDROID en KOTLIN
 
 Aplicaciones desarrolladas durante el curso.
 
-Calculador IMC.
+📲Calculador IMC.
 
 ![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/b1eac7bb-2749-4b5a-ba21-b34c7dbd9eee) ![pantalla secundaria](https://github.com/Strizik/ProyectApp/assets/128645852/ff398eb0-8a6f-4c7b-876d-e1009ad15cbc)
 
@@ -81,21 +81,21 @@ Calculador IMC.
 
 
 	
-Organizador de tareas.
+📲Organizador de tareas.
 
 ![Captura](https://github.com/Strizik/ProyectApp/assets/128645852/f2461152-f3e8-438b-b9e0-5862317d0778) ![Cap](https://github.com/Strizik/ProyectApp/assets/128645852/134dfff4-faab-4cd6-b3ba-68ffa75d59f1)
 
 
 
 	
-Buscador de superhéroes.
+📲Buscador de superhéroes.
 
 ![super](https://github.com/Strizik/ProyectApp/assets/128645852/d12ed25e-cd4f-45e3-9ec6-07df7f9ff940) ![superresul](https://github.com/Strizik/ProyectApp/assets/128645852/8a61caf8-8f5e-4b3e-8606-c55a89c9bf2e)
 
 
 
 	
-Pantalla de ajustes.
+📲Pantalla de ajustes.
 
 ![ajustes](https://github.com/Strizik/ProyectApp/assets/128645852/f976f98e-d995-4966-8327-6daac42b8174) ![setting2](https://github.com/Strizik/ProyectApp/assets/128645852/93cb5d60-6009-4768-9f9f-b4a3e6226e63)
 
