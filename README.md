@@ -75,13 +75,15 @@ Aplicaciones desarrolladas durante el curso.
 
 Calculador IMC.
 
---Pantalla principal
-![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/b526ed43-cb8b-44cc-8170-5255d2ea4cdd)
+--Pantalla principal ![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/b1eac7bb-2749-4b5a-ba21-b34c7dbd9eee) Resultado
+![pantalla secundaria](https://github.com/Strizik/ProyectApp/assets/128645852/ff398eb0-8a6f-4c7b-876d-e1009ad15cbc)
+
 
 
 
 Resultado
-![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/edb80725-61ca-4d02-b06c-52fcf84e8eb0)
+![pantalla secundaria](https://github.com/Strizik/ProyectApp/assets/128645852/ff398eb0-8a6f-4c7b-876d-e1009ad15cbc)
+
 
 
 	
