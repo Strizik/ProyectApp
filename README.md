@@ -90,13 +90,15 @@ Organizador de tareas.
 	
 Buscador de superhéroes.
 
-Pantalla principal ![image](https://github.com/Strizik/ProyectApp/assets/128645852/a133fd74-892b-4d97-a53a-1801b3e95083)
-	Añadiendo tareas ![image](https://github.com/Strizik/ProyectApp/assets/128645852/8fe5d26f-01e3-4084-aa5b-0a4d5f73689f)
+![super](https://github.com/Strizik/ProyectApp/assets/128645852/d12ed25e-cd4f-45e3-9ec6-07df7f9ff940) ![superresul](https://github.com/Strizik/ProyectApp/assets/128645852/8a61caf8-8f5e-4b3e-8606-c55a89c9bf2e)
+
+
 
 	
 Pantalla de ajustes.
 
-Pantalla principal ![image](https://github.com/Strizik/ProyectApp/assets/128645852/a067372a-0c52-4c3e-aaa5-8e4c17450b98)
-	Añadiendo tareas ![image](https://github.com/Strizik/ProyectApp/assets/128645852/66f494dc-dd90-4e9f-aab3-3ec6ec3c3599)
+![ajustes](https://github.com/Strizik/ProyectApp/assets/128645852/f976f98e-d995-4966-8327-6daac42b8174) ![setting2](https://github.com/Strizik/ProyectApp/assets/128645852/7c0683ad-1fb4-4ae8-a021-475068a5fa04)
+
+
 
 	
