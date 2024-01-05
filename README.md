@@ -75,8 +75,6 @@ Aplicaciones desarrolladas durante el curso.
 
 Calculador IMC.
 
---Pantalla principal				_Resultado
-
 ![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/b1eac7bb-2749-4b5a-ba21-b34c7dbd9eee) ![pantalla secundaria](https://github.com/Strizik/ProyectApp/assets/128645852/ff398eb0-8a6f-4c7b-876d-e1009ad15cbc)
 
 
@@ -85,8 +83,9 @@ Calculador IMC.
 	
 Organizador de tareas.
 
-Pantalla principal ![image](https://github.com/Strizik/ProyectApp/assets/128645852/588a615c-1fa9-433e-a1c1-5f232c355f81)
-	Añadiendo tareas ![image](https://github.com/Strizik/ProyectApp/assets/128645852/6815321d-9aca-40eb-8cc6-4e7e3c7f413c)
+![Captura](https://github.com/Strizik/ProyectApp/assets/128645852/f2461152-f3e8-438b-b9e0-5862317d0778) ![Cap](https://github.com/Strizik/ProyectApp/assets/128645852/134dfff4-faab-4cd6-b3ba-68ffa75d59f1)
+
+
 
 	
 Buscador de superhéroes.
