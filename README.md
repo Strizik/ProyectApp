@@ -97,7 +97,7 @@ Buscador de superhéroes.
 	
 Pantalla de ajustes.
 
-![ajustes](https://github.com/Strizik/ProyectApp/assets/128645852/f976f98e-d995-4966-8327-6daac42b8174) ![setting2](https://github.com/Strizik/ProyectApp/assets/128645852/7c0683ad-1fb4-4ae8-a021-475068a5fa04)
+![ajustes](https://github.com/Strizik/ProyectApp/assets/128645852/f976f98e-d995-4966-8327-6daac42b8174) ![setting2](https://github.com/Strizik/ProyectApp/assets/128645852/93cb5d60-6009-4768-9f9f-b4a3e6226e63)
 
 
 
