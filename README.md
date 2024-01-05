@@ -75,12 +75,14 @@ Aplicaciones desarrolladas durante el curso.
 
 Calculador IMC.
 
-Pantalla principal
-![image](https://github.com/Strizik/ProyectApp/assets/128645852/15c8c922-b56e-4b94-b1af-5992e064e1ac)
+--Pantalla principal
+![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/b526ed43-cb8b-44cc-8170-5255d2ea4cdd)
+
 
 
 Resultado
-![image](https://github.com/Strizik/ProyectApp/assets/128645852/510382eb-ff35-477c-8c14-203fc4d966d9)
+![pantalla principal](https://github.com/Strizik/ProyectApp/assets/128645852/edb80725-61ca-4d02-b06c-52fcf84e8eb0)
+
 
 	
 Organizador de tareas.
