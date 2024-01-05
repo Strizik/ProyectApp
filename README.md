@@ -1,4 +1,4 @@
-❤️Aplicaciones ANDROID en KOTLIN❤️
+⭐️ Aplicaciones ANDROID en KOTLIN ⭐️
   
 -Valores y variables en Kotlin
 
@@ -20,13 +20,13 @@
 
 -Listas en Kotlin
 
-❤️Desarrollando nuestra APP
+⭐Desarrollando nuestra APP
 
 -Navegación de pantallas
 
 -Crear un menú para navegar entre apps
 
-❤️Diseñar y programar app completa IMC
+⭐️Diseñar y programar app completa IMC
 
 -Cambios entre pantallas
 
@@ -42,7 +42,7 @@
 
 -Listeners y clicks
 
-❤️Diseñar y programar app completa TODO
+⭐️Diseñar y programar app completa TODO
 
 -Recyclerview
 
@@ -52,7 +52,7 @@
 
 -Funciones lambdas
 
-❤️Diseñar y programar una buscador de Superhéroes
+⭐️Diseñar y programar una buscador de Superhéroes
 
 -SearchView
 
@@ -62,7 +62,7 @@
 
 -Recyclerview
 
-❤️Diseñar y programar una pantalla de ajustes con persistencia de datos
+⭐️Diseñar y programar una pantalla de ajustes con persistencia de datos
 
 -Persistencia de datos con DataStore
 
